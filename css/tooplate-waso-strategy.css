@@ -568,7 +568,7 @@ strong {
 }
 
 .projects-thumb-large {
-  min-height: 356px;
+  min-height: 1356px;
 }
 
 .projects-thumb:hover {
@@ -914,3 +914,24 @@ strong {
 .custom-strong {
   color: #dcdcdd; /* Rojo vibrante, puedes cambiarlo por otro color */
 }
+
+/* BOTON DE WHATSAPP */
+
+img.btn-whatsapp {
+  display: block !important;
+  position: fixed;
+  z-index: 9999999;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  border-radius:100px !important;
+
+  }
+
+img.btn-whatsapp:hover{
+  border-radius:100px !important;
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(7,94,84,1); 
+  -moz-box-shadow: 0px 0px 15px 0px rgba(7,94,84,1);
+  box-shadow: 0px 0px 15px 0px rgba(7,94,84,1);
+  transition-duration: 1s;
+  } 
