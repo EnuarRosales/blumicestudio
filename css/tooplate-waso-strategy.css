@@ -393,7 +393,7 @@ strong {
 }
 
 .section-hero {
-  background-image: url('../images/jason-goodman-MUZFKa_mttU-unsplash.jpg');  
+  background-image: url('../images/room4/3.jpg');  
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -402,6 +402,29 @@ strong {
   padding-top: 180px;
   padding-bottom: 180px;
 }
+
+.section-hero-room1 {
+  background-image: url('../images/room1/1.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
+.section-hero-room2 {
+  background-image: url('../images/room2/4.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
 
 .section-hero::before {
   content: "";
