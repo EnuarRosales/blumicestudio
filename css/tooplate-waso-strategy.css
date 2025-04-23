@@ -425,6 +425,50 @@ strong {
   padding-bottom: 180px;
 }
 
+.section-hero-room3 {
+  background-image: url('../images/room3/3.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
+.section-hero-room5 {
+  background-image: url('../images/room5/5.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
+.section-hero-room6 {
+  background-image: url('../images/room6/3.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
+.section-hero-room7 {
+  background-image: url('../images/room7/1.jpg');  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: auto; 
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+
 
 .section-hero::before {
   content: "";
